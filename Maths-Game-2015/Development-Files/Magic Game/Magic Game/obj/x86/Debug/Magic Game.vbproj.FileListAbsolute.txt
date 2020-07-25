@@ -1,0 +1,9 @@
+C:\Users\Chinthaka\Desktop\VB Game\Magic Game\Magic Game\bin\Debug\Magic Game.exe
+C:\Users\Chinthaka\Desktop\VB Game\Magic Game\Magic Game\bin\Debug\Magic Game.pdb
+C:\Users\Chinthaka\Desktop\VB Game\Magic Game\Magic Game\bin\Debug\Magic Game.xml
+C:\Users\Chinthaka\Desktop\VB Game\Magic Game\Magic Game\obj\x86\Debug\Majic_Game.Form1.resources
+C:\Users\Chinthaka\Desktop\VB Game\Magic Game\Magic Game\obj\x86\Debug\Majic_Game.Resources.resources
+C:\Users\Chinthaka\Desktop\VB Game\Magic Game\Magic Game\obj\x86\Debug\Magic Game.vbproj.GenerateResource.Cache
+C:\Users\Chinthaka\Desktop\VB Game\Magic Game\Magic Game\obj\x86\Debug\Magic Game.exe
+C:\Users\Chinthaka\Desktop\VB Game\Magic Game\Magic Game\obj\x86\Debug\Magic Game.xml
+C:\Users\Chinthaka\Desktop\VB Game\Magic Game\Magic Game\obj\x86\Debug\Magic Game.pdb

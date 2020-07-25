@@ -1,0 +1,9 @@
+C:\Users\Chinthaka\AppData\Local\Temporary Projects\Majic Game\bin\Debug\Majic Game.exe
+C:\Users\Chinthaka\AppData\Local\Temporary Projects\Majic Game\bin\Debug\Majic Game.pdb
+C:\Users\Chinthaka\AppData\Local\Temporary Projects\Majic Game\bin\Debug\Majic Game.xml
+C:\Users\Chinthaka\AppData\Local\Temporary Projects\Majic Game\obj\x86\Debug\Majic_Game.Form1.resources
+C:\Users\Chinthaka\AppData\Local\Temporary Projects\Majic Game\obj\x86\Debug\Majic_Game.Resources.resources
+C:\Users\Chinthaka\AppData\Local\Temporary Projects\Majic Game\obj\x86\Debug\Majic Game.vbproj.GenerateResource.Cache
+C:\Users\Chinthaka\AppData\Local\Temporary Projects\Majic Game\obj\x86\Debug\Majic Game.exe
+C:\Users\Chinthaka\AppData\Local\Temporary Projects\Majic Game\obj\x86\Debug\Majic Game.xml
+C:\Users\Chinthaka\AppData\Local\Temporary Projects\Majic Game\obj\x86\Debug\Majic Game.pdb
