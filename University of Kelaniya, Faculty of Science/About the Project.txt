@@ -1,0 +1,33 @@
+University of Kelaniya - COSC 32035
+--The Problem--
+* No proper drug management and distribution system available in Sri Lanka
+* Hospitals use a log book to maintain the records 
+* No drug estimation was made, hence drug shortages and surplus 
+* Hence, public fund wastage
+
+--Research--
+* Consulted government hospital doctors and staff and got an idea about the current process
+
+--Solution--
+* Develop a software system containing two ends. Only selected users can access to the system
+* Main - The system that feeds data about the drug distribution 
+* Client - The system that has access to the local hospitals. They have to update their system regularly. 
+
+--Techniques Used--
+* Microsoft Visual Studio
+* SQL Server Management Studio
+* SQL Server 2008 R2
+
+--Further Development--
+* Develop an app for doctors and ask them to provide e-prescription by login seperate app. Link it with the hospital app and reduce the drug quantity based on the doctor's prescription
+* Automate the drug ordering system to the hospitals
+* Predict the drug shortages and automatically make orders
+
+
+---------------------------------------------------------
+The Team
+A C M Algewatta (PS/2010/310)
+L A C A Sandaruwan (PS/2010/318) >> [Chinthaka Liyana Arachchi]
+P A S Chathuranga (PS/2010/340)
+S K C Silva (PS/2010/399)
+N D Dahanayake (PS/2010/407)
