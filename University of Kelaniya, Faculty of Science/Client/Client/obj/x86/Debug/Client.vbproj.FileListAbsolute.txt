@@ -1,0 +1,30 @@
+C:\Users\Chinthaka\AppData\Local\Temporary Projects\Client\bin\Debug\Client.exe
+C:\Users\Chinthaka\AppData\Local\Temporary Projects\Client\bin\Debug\Client.pdb
+C:\Users\Chinthaka\AppData\Local\Temporary Projects\Client\bin\Debug\Client.xml
+C:\Users\Chinthaka\AppData\Local\Temporary Projects\Client\obj\x86\Debug\Client.Resources.resources
+C:\Users\Chinthaka\AppData\Local\Temporary Projects\Client\obj\x86\Debug\Client.vbproj.GenerateResource.Cache
+C:\Users\Chinthaka\AppData\Local\Temporary Projects\Client\obj\x86\Debug\Client.exe
+C:\Users\Chinthaka\AppData\Local\Temporary Projects\Client\obj\x86\Debug\Client.xml
+C:\Users\Chinthaka\AppData\Local\Temporary Projects\Client\obj\x86\Debug\Client.pdb
+C:\Users\Chinthaka\AppData\Local\Temporary Projects\Client\obj\x86\Debug\Client.frameMainFrame.resources
+C:\Users\Chinthaka\AppData\Local\Temporary Projects\Client\obj\x86\Debug\Client.Drug_Distribute.resources
+C:\Users\Chinthaka\Desktop\Client\Client\obj\x86\Debug\Client.exe
+C:\Users\Chinthaka\Desktop\Client\Client\obj\x86\Debug\Client.xml
+C:\Users\Chinthaka\Desktop\Client\Client\obj\x86\Debug\Client.pdb
+C:\Users\Chinthaka\Desktop\Client\Client\obj\x86\Debug\Client.Drug_Distribute.resources
+C:\Users\Chinthaka\Desktop\Client\Client\obj\x86\Debug\Client.frameMainFrame.resources
+C:\Users\Chinthaka\Desktop\Client\Client\obj\x86\Debug\Client.Resources.resources
+C:\Users\Chinthaka\Desktop\Client\Client\obj\x86\Debug\Client.vbproj.GenerateResource.Cache
+C:\Users\Chinthaka\Desktop\Client\Client\bin\Debug\Client.exe
+C:\Users\Chinthaka\Desktop\Client\Client\bin\Debug\Client.pdb
+C:\Users\Chinthaka\Desktop\Client\Client\bin\Debug\Client.xml
+C:\Users\Chinthaka\Desktop\VB Project\Client\Client\obj\x86\Debug\Client.exe
+C:\Users\Chinthaka\Desktop\VB Project\Client\Client\obj\x86\Debug\Client.xml
+C:\Users\Chinthaka\Desktop\VB Project\Client\Client\obj\x86\Debug\Client.pdb
+C:\Users\Chinthaka\Desktop\VB Project\Client\Client\bin\Debug\Client.exe
+C:\Users\Chinthaka\Desktop\VB Project\Client\Client\bin\Debug\Client.pdb
+C:\Users\Chinthaka\Desktop\VB Project\Client\Client\bin\Debug\Client.xml
+C:\Users\Chinthaka\Desktop\VB Project\Client\Client\obj\x86\Debug\Client.Drug_Distribute.resources
+C:\Users\Chinthaka\Desktop\VB Project\Client\Client\obj\x86\Debug\Client.frameMainFrame.resources
+C:\Users\Chinthaka\Desktop\VB Project\Client\Client\obj\x86\Debug\Client.Resources.resources
+C:\Users\Chinthaka\Desktop\VB Project\Client\Client\obj\x86\Debug\Client.vbproj.GenerateResource.Cache

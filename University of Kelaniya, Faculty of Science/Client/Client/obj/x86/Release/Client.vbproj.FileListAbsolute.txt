@@ -1,0 +1,10 @@
+C:\Users\Chinthaka\Desktop\VB Project\Client\Client\bin\Release\Client.exe
+C:\Users\Chinthaka\Desktop\VB Project\Client\Client\bin\Release\Client.pdb
+C:\Users\Chinthaka\Desktop\VB Project\Client\Client\bin\Release\Client.xml
+C:\Users\Chinthaka\Desktop\VB Project\Client\Client\obj\x86\Release\Client.Drug_Distribute.resources
+C:\Users\Chinthaka\Desktop\VB Project\Client\Client\obj\x86\Release\Client.frameMainFrame.resources
+C:\Users\Chinthaka\Desktop\VB Project\Client\Client\obj\x86\Release\Client.Resources.resources
+C:\Users\Chinthaka\Desktop\VB Project\Client\Client\obj\x86\Release\Client.vbproj.GenerateResource.Cache
+C:\Users\Chinthaka\Desktop\VB Project\Client\Client\obj\x86\Release\Client.exe
+C:\Users\Chinthaka\Desktop\VB Project\Client\Client\obj\x86\Release\Client.xml
+C:\Users\Chinthaka\Desktop\VB Project\Client\Client\obj\x86\Release\Client.pdb
