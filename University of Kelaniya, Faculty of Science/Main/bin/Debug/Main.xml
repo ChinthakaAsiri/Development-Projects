@@ -1,0 +1,232 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Main
+</name>
+</assembly>
+<members>
+<member name="T:Main.DSdrug.DrugsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Main.DSdrug.DrugDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Main.DSdrug.HospitalDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Main.DSdrug.DrugsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Main.DSdrug.DrugRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Main.DSdrug.HospitalRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Main.DSdrug.DrugsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Main.DSdrug.DrugRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Main.DSdrug.HospitalRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Main.DSdrug">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Main.DSDrugandHos.DrugDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Main.DSDrugandHos.DrugRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Main.DSDrugandHos.DrugRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Main.DSDrugandHos">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Main.DSMinimumReqDist.Minimum_RequirmrntDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Main.DSMinimumReqDist.Minimum_RequirmrntRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Main.DSMinimumReqDist.Minimum_RequirmrntRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Main.DSMinimumReqDist">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Main.DSMinimumReq.Minimum_RequirmrntDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Main.DSMinimumReq.Minimum_RequirmrntRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Main.DSMinimumReq.Minimum_RequirmrntRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Main.DSMinimumReq">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Main.NEW_DS">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Main.DsMinReq1.DrugDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Main.DsMinReq1.DrugRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Main.DsMinReq1.DrugRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Main.DsMinReq1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Main.DSMinReq.HospitalDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Main.DSMinReq.HospitalRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Main.DSMinReq.HospitalRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Main.DSMinReq">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Main.DsMinReq12.DrugDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Main.DsMinReq12.DrugRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Main.DsMinReq12.DrugRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Main.DsMinReq12">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="P:Main.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Main.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Main.My.Resources.Resources.back">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Main.My.Resources.Resources.hospital_news_content">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Main.My.Resources.Resources.img_home_banner">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Main.My.Resources.Resources.MB__back">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Main.My.Resources.Resources.project_final_2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Main.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:Main.DataSet1.HospitalDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Main.DataSet1.HospitalRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Main.DataSet1.HospitalRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Main.DataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Main.newDrug.DrugDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Main.newDrug.DrugRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Main.newDrug.DrugRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Main.newDrug">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Main.DShos.HospitalDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Main.DShos.HospitalRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Main.DShos.HospitalRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Main.DShos">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+</members>
+</doc>

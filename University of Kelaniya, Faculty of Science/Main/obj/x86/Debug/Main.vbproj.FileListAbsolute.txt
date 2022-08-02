@@ -1,0 +1,81 @@
+C:\Users\chinthaka02\AppData\Local\Temporary Projects\Main\bin\Debug\Main.exe
+C:\Users\chinthaka02\AppData\Local\Temporary Projects\Main\bin\Debug\Main.pdb
+C:\Users\chinthaka02\AppData\Local\Temporary Projects\Main\bin\Debug\Main.xml
+C:\Users\chinthaka02\AppData\Local\Temporary Projects\Main\obj\x86\Debug\Main.Form1.resources
+C:\Users\chinthaka02\AppData\Local\Temporary Projects\Main\obj\x86\Debug\Main.Resources.resources
+C:\Users\chinthaka02\AppData\Local\Temporary Projects\Main\obj\x86\Debug\Main.vbproj.GenerateResource.Cache
+C:\Users\chinthaka02\AppData\Local\Temporary Projects\Main\obj\x86\Debug\Main.exe
+C:\Users\chinthaka02\AppData\Local\Temporary Projects\Main\obj\x86\Debug\Main.xml
+C:\Users\chinthaka02\AppData\Local\Temporary Projects\Main\obj\x86\Debug\Main.pdb
+C:\Users\chinthaka02\Desktop\Main\Main\obj\x86\Debug\Main.exe
+C:\Users\chinthaka02\Desktop\Main\Main\obj\x86\Debug\Main.xml
+C:\Users\chinthaka02\Desktop\Main\Main\obj\x86\Debug\Main.pdb
+C:\Users\Chinthaka\Desktop\Main\Main\obj\x86\Debug\Main.exe
+C:\Users\Chinthaka\Desktop\Main\Main\obj\x86\Debug\Main.xml
+C:\Users\Chinthaka\Desktop\Main\Main\obj\x86\Debug\Main.pdb
+C:\Users\Chinthaka\Desktop\Main\Main\bin\Debug\Main.exe
+C:\Users\Chinthaka\Desktop\Main\Main\bin\Debug\Main.pdb
+C:\Users\Chinthaka\Desktop\Main\Main\bin\Debug\Main.xml
+C:\Users\Chinthaka\Desktop\Main\Main\obj\x86\Debug\Main.frameMainFrame.resources
+C:\Users\Chinthaka\Desktop\Main\Main\obj\x86\Debug\Main.Resources.resources
+C:\Users\Chinthaka\Desktop\Main\Main\obj\x86\Debug\Main.vbproj.GenerateResource.Cache
+C:\Users\Chinthaka\Desktop\Main\Main\obj\x86\Debug\Main.formSelect_Category.resources
+C:\Users\Chinthaka\Desktop\Main\Main\obj\x86\Debug\Main.formAdd_Drug.resources
+C:\Users\Chinthaka\Desktop\Main\Main\obj\x86\Debug\Main.formAdd_Hospital.resources
+C:\Users\Chinthaka\Desktop\Main\Main\obj\x86\Debug\Main.formDrug_Avalability.resources
+C:\Users\chinthaka02\Desktop\Main\Main\bin\Debug\Main.exe
+C:\Users\chinthaka02\Desktop\Main\Main\bin\Debug\Main.pdb
+C:\Users\chinthaka02\Desktop\Main\Main\bin\Debug\Main.xml
+C:\Users\chinthaka02\Desktop\Main\Main\obj\x86\Debug\Main.formAdd_Drug.resources
+C:\Users\chinthaka02\Desktop\Main\Main\obj\x86\Debug\Main.formAdd_Hospital.resources
+C:\Users\chinthaka02\Desktop\Main\Main\obj\x86\Debug\Main.Current_Avalability.resources
+C:\Users\chinthaka02\Desktop\Main\Main\obj\x86\Debug\Main.formDrug_Avalability.resources
+C:\Users\chinthaka02\Desktop\Main\Main\obj\x86\Debug\Main.frameMainFrame.resources
+C:\Users\chinthaka02\Desktop\Main\Main\obj\x86\Debug\Main.Resources.resources
+C:\Users\chinthaka02\Desktop\Main\Main\obj\x86\Debug\Main.formSelect_Category.resources
+C:\Users\chinthaka02\Desktop\Main\Main\obj\x86\Debug\Main.vbproj.GenerateResource.Cache
+C:\Users\Chinthaka\Desktop\New folder\Main\Main\obj\x86\Debug\Main.exe
+C:\Users\Chinthaka\Desktop\New folder\Main\Main\obj\x86\Debug\Main.xml
+C:\Users\Chinthaka\Desktop\New folder\Main\Main\obj\x86\Debug\Main.pdb
+C:\Users\Chinthaka\Desktop\New folder\Main\Main\bin\Debug\Main.exe
+C:\Users\Chinthaka\Desktop\New folder\Main\Main\bin\Debug\Main.pdb
+C:\Users\Chinthaka\Desktop\New folder\Main\Main\bin\Debug\Main.xml
+C:\Users\Chinthaka\Desktop\New folder\Main\Main\obj\x86\Debug\Main.formAdd_Drug.resources
+C:\Users\Chinthaka\Desktop\New folder\Main\Main\obj\x86\Debug\Main.formAdd_Hospital.resources
+C:\Users\Chinthaka\Desktop\New folder\Main\Main\obj\x86\Debug\Main.Current_Avalability.resources
+C:\Users\Chinthaka\Desktop\New folder\Main\Main\obj\x86\Debug\Main.formDrug_Avalability.resources
+C:\Users\Chinthaka\Desktop\New folder\Main\Main\obj\x86\Debug\Main.frameMainFrame.resources
+C:\Users\Chinthaka\Desktop\New folder\Main\Main\obj\x86\Debug\Main.Resources.resources
+C:\Users\Chinthaka\Desktop\New folder\Main\Main\obj\x86\Debug\Main.formSelect_Category.resources
+C:\Users\Chinthaka\Desktop\New folder\Main\Main\obj\x86\Debug\Main.vbproj.GenerateResource.Cache
+C:\Users\Chinthaka\Desktop\New folder\Main\Main\obj\x86\Debug\Main.StockSender.resources
+H:\New folder\Main\Main\obj\x86\Debug\Main.exe
+H:\New folder\Main\Main\obj\x86\Debug\Main.xml
+H:\New folder\Main\Main\obj\x86\Debug\Main.pdb
+H:\New folder\Main\Main\bin\Debug\Main.exe
+H:\New folder\Main\Main\bin\Debug\Main.pdb
+H:\New folder\Main\Main\bin\Debug\Main.xml
+H:\New folder\Main\Main\obj\x86\Debug\Main.formAdd_Drug.resources
+H:\New folder\Main\Main\obj\x86\Debug\Main.formAdd_Hospital.resources
+H:\New folder\Main\Main\obj\x86\Debug\Main.Current_Avalability.resources
+H:\New folder\Main\Main\obj\x86\Debug\Main.formDrug_Avalability.resources
+H:\New folder\Main\Main\obj\x86\Debug\Main.StockSender.resources
+H:\New folder\Main\Main\obj\x86\Debug\Main.frameMainFrame.resources
+H:\New folder\Main\Main\obj\x86\Debug\Main.Resources.resources
+H:\New folder\Main\Main\obj\x86\Debug\Main.formSelect_Category.resources
+H:\New folder\Main\Main\obj\x86\Debug\Main.vbproj.GenerateResource.Cache
+C:\Users\Chinthaka\Desktop\Main\Main\bin\Debug\Main.exe.config
+C:\Users\Chinthaka\Desktop\VB Project\Main\Main\bin\Debug\Main.exe.config
+C:\Users\Chinthaka\Desktop\VB Project\Main\Main\obj\x86\Debug\Main.exe
+C:\Users\Chinthaka\Desktop\VB Project\Main\Main\obj\x86\Debug\Main.xml
+C:\Users\Chinthaka\Desktop\VB Project\Main\Main\obj\x86\Debug\Main.pdb
+C:\Users\Chinthaka\Desktop\VB Project\Main\Main\bin\Debug\Main.exe
+C:\Users\Chinthaka\Desktop\VB Project\Main\Main\bin\Debug\Main.pdb
+C:\Users\Chinthaka\Desktop\VB Project\Main\Main\bin\Debug\Main.xml
+C:\Users\Chinthaka\Desktop\VB Project\Main\Main\obj\x86\Debug\Main.formAdd_Drug.resources
+C:\Users\Chinthaka\Desktop\VB Project\Main\Main\obj\x86\Debug\Main.formAdd_Hospital.resources
+C:\Users\Chinthaka\Desktop\VB Project\Main\Main\obj\x86\Debug\Main.formDrug_Avalability.resources
+C:\Users\Chinthaka\Desktop\VB Project\Main\Main\obj\x86\Debug\Main.frameMainFrame.resources
+C:\Users\Chinthaka\Desktop\VB Project\Main\Main\obj\x86\Debug\Main.Resources.resources
+C:\Users\Chinthaka\Desktop\VB Project\Main\Main\obj\x86\Debug\Main.formSelect_Category.resources
+C:\Users\Chinthaka\Desktop\VB Project\Main\Main\obj\x86\Debug\Main.vbproj.GenerateResource.Cache
