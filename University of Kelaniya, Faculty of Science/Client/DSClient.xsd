@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DSClient" targetNamespace="http://tempuri.org/DSClient.xsd" xmlns:mstns="http://tempuri.org/DSClient.xsd" xmlns="http://tempuri.org/DSClient.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DSClient" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="DSClient" msprop:Generator_DataSetName="DSClient">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Drug" msprop:Generator_TableClassName="DrugDataTable" msprop:Generator_TableVarName="tableDrug" msprop:Generator_TablePropName="Drug" msprop:Generator_RowDeletingName="DrugRowDeleting" msprop:Generator_RowChangingName="DrugRowChanging" msprop:Generator_RowEvHandlerName="DrugRowChangeEventHandler" msprop:Generator_RowDeletedName="DrugRowDeleted" msprop:Generator_UserTableName="Drug" msprop:Generator_RowChangedName="DrugRowChanged" msprop:Generator_RowEvArgName="DrugRowChangeEvent" msprop:Generator_RowClassName="DrugRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Qty_x0020_in_x0020_Hospital" msprop:Generator_ColumnVarNameInTable="columnQty_in_Hospital" msprop:Generator_ColumnPropNameInRow="Qty_in_Hospital" msprop:Generator_ColumnPropNameInTable="Qty_in_HospitalColumn" msprop:Generator_UserColumnName="Qty in Hospital" type="xs:decimal" />
+              <xs:element name="Drug_ID" msprop:Generator_ColumnVarNameInTable="columnDrug_ID" msprop:Generator_ColumnPropNameInRow="Drug_ID" msprop:Generator_ColumnPropNameInTable="Drug_IDColumn" msprop:Generator_UserColumnName="Drug_ID">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Hospital_ID" msprop:Generator_ColumnVarNameInTable="columnHospital_ID" msprop:Generator_ColumnPropNameInRow="Hospital_ID" msprop:Generator_ColumnPropNameInTable="Hospital_IDColumn" msprop:Generator_UserColumnName="Hospital_ID">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="DrugName" msprop:Generator_ColumnVarNameInTable="columnDrugName" msprop:Generator_ColumnPropNameInRow="DrugName" msprop:Generator_ColumnPropNameInTable="DrugNameColumn" msprop:Generator_UserColumnName="DrugName">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Hospital_Name" msprop:Generator_ColumnVarNameInTable="columnHospital_Name" msprop:Generator_ColumnPropNameInRow="Hospital_Name" msprop:Generator_ColumnPropNameInTable="Hospital_NameColumn" msprop:Generator_UserColumnName="Hospital_Name">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:Drug" />
+      <xs:field xpath="mstns:Drug_ID" />
+      <xs:field xpath="mstns:Hospital_ID" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>
